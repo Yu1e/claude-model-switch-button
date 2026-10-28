@@ -1,0 +1,7 @@
+{
+  "name": "model-switch-button",
+  "version": "0.1.0",
+  "description": "Под ответом, где Claude советует сменить модель или усилие, появляется кнопка: она вписывает в поле ввода готовую команду /model или /effort.",
+  "author": { "name": "Yule" },
+  "license": "MIT"
+}
